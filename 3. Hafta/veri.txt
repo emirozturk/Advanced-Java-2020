@@ -1,0 +1,11 @@
+Tarih,UrunAd,UrunNo,Adet,MusNo,MusAd,MusSoyad
+23.11.2007,Nokia 6300,57463,1,875,Ali,Korkmaz
+23.11.2007,Kingston 2 GB USB,73624,2,875,Ali,Korkmaz
+23.11.2007,Samsung D600,72352,1,932,Selin,Atasoy
+24.11.2007,Nokia 5070,71224,1,123,Kamil,Sönmez
+24.11.2007,Philips DVP 5160/12,90876,1,452,Metin,Kaplan
+25.11.2007,Samsung Digimax S850,98123,1,786,Kemal,Durukan
+25.11.2007,Sinbo SBS-4414 Baskül,35465,2,932,Selin,Atasoy
+25.11.2007,Canon Powershot A560,95293,1,875,Ali,Korkmaz
+25.11.2007,Kingston 2 GB SD,37285,1,875,Ali,Korkmaz
+26.11.2007,Nokia 6300,57463,1,321,Ece,Çağlayan
